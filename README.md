@@ -6,6 +6,8 @@
 ## Dataset - Empresas Inidôneas e Suspeitas
 Fonte: Portal da Transparência (https://portaldatransparencia.gov.br/download-de-dados/ceis)
 
+Data de extração: 27/05/2022
+
 [Descrição do Dataset](https://www.portaldatransparencia.gov.br/pagina-interna/603412-dicionario-de-dados-sancoes-ceis "Descrição do Dataset")
 | Tipo de pessoa  | CPF OU CNPJ DO SANCIONADO | NOME INFORMADO PELO ÓRGÃO SANCIONADOR | RAZÃO SOCIAL | NOME FANTASIA | NÚMERO DO PROCESSO | TIPO SANÇÃO | DATA INÍCIO SANÇÃO | DATA FINAL SANÇÃO | ÓRGÃO SANCIONADOR | UF ÓRGÃO SANCIONADOR | ORIGEM INFORMAÇÕES | DATA ORIGEM INFORMAÇÕES | DATA PUBLICAÇÃO | PUBLICAÇÃO | DETALHAMENTO | ABRAGÊNCIA DEFINIDA EM DECISÃO JUDICIAL | FUNDAMENTAÇÃO LEGAL | DESCRIÇÃO DA FUNDAMENTAÇÃO LEGAL | DATA DO TRÂNSITO EM JULGADO | COMPLEMENTO DO ÓRGÃO |
 | ------- | -------- | ------- | -------- | ------- | -------- | ------- | -------- | ------- | -------- | ------- | -------- | ------- | -------- | ------- | -------- | ------- | -------- | ------- | -------- | ------- |
