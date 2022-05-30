@@ -3,6 +3,12 @@
 
 ------------
 
+Python requirements:
+- Pandas
+- Matplotlib
+
+------------
+
 ## Dataset - Empresas Inidôneas e Suspeitas
 Fonte: Portal da Transparência (https://portaldatransparencia.gov.br/download-de-dados/ceis)
 
